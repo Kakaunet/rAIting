@@ -15,10 +15,10 @@ AI was used for fixing minor errors and optimizing/adapting some minor parts of 
 AI was used for fixing medium-sized errors that were difficult for the coders and optimizing/adapting some medium-sized parts of the code, but did not do major changes to the code, and did not affect asset creation, or anything that does not relate to code.
 
 ### D 
-AI was used to generate some minor to medium parts of the code that were not necessarily too difficult for the coders [modifier [U](###U) changes this]. AI was also slightly used in asset creation or anything that is designed to be viewed by the user (images, UI designs, etc).
+AI was used to generate some minor to medium parts of the code that were not necessarily too difficult for the coders [modifier [U](#u---unknown) changes this]. AI was also slightly used in asset creation or anything that is designed to be viewed by the user (images, UI designs, etc).
 
 ### E
-AI was used to generate major parts of the code that were not necessarily too difficult for the coders [modifier [U](###U) changes this]. AI was also somewhat used in asset creation or anything that is designed to be viewed by the user (images, UI designs, etc).
+AI was used to generate major parts of the code that were not necessarily too difficult for the coders [modifier [U](#u---unknown) changes this]. AI was also somewhat used in asset creation or anything that is designed to be viewed by the user (images, UI designs, etc).
 
 ### F
 AI was used for a very large part of the project, including but not limited to: code, assets, UI, APIs, or anything at all related to the project.
