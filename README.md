@@ -1,5 +1,5 @@
 # rAIting
-An AI use measuring scale. It ranges from A to E, with other special cases.
+An AI use measuring scale. It ranges from 0 to A to F, with other special cases.
 
 
 **[rAIting](https://github.com/Kakaunet/rAIting) © 2026 by [Kakaunet](https://github.com/Kakaunet) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**\
